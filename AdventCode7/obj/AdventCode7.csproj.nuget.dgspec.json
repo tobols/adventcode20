@@ -1,36 +1,35 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Repos\\temp\\AdventCode\\AdventCode7\\AdventCode7.csproj": {}
+    "D:\\Repos\\temp\\adventcode20\\AdventCode7\\AdventCode7.csproj": {}
   },
   "projects": {
-    "C:\\Repos\\temp\\AdventCode\\AdventCode7\\AdventCode7.csproj": {
+    "D:\\Repos\\temp\\adventcode20\\AdventCode7\\AdventCode7.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Repos\\temp\\AdventCode\\AdventCode7\\AdventCode7.csproj",
+        "projectUniqueName": "D:\\Repos\\temp\\adventcode20\\AdventCode7\\AdventCode7.csproj",
         "projectName": "AdventCode7",
-        "projectPath": "C:\\Repos\\temp\\AdventCode\\AdventCode7\\AdventCode7.csproj",
-        "packagesPath": "C:\\Users\\tobols\\.nuget\\packages\\",
-        "outputPath": "C:\\Repos\\temp\\AdventCode\\AdventCode7\\obj\\",
+        "projectPath": "D:\\Repos\\temp\\adventcode20\\AdventCode7\\AdventCode7.csproj",
+        "packagesPath": "C:\\Users\\tobol\\.nuget\\packages\\",
+        "outputPath": "D:\\Repos\\temp\\adventcode20\\AdventCode7\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\tobols\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\tobol\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "https://api.nuget.org/v3/index.json": {},
-          "https://pkgs.dev.azure.com/isotop-trese/_packaging/3se/nuget/v3/index.json": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -42,6 +41,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -57,7 +57,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

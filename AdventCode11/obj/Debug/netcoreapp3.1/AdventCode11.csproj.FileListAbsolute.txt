@@ -11,3 +11,16 @@ C:\Repos\temp\AdventCode\AdventCode11\obj\Debug\netcoreapp3.1\AdventCode11.dll
 C:\Repos\temp\AdventCode\AdventCode11\obj\Debug\netcoreapp3.1\AdventCode11.pdb
 C:\Repos\temp\AdventCode\AdventCode11\obj\Debug\netcoreapp3.1\AdventCode11.genruntimeconfig.cache
 C:\Repos\temp\AdventCode\AdventCode11\obj\Debug\netcoreapp3.1\AdventCode11.csprojAssemblyReference.cache
+D:\Repos\temp\adventcode20\AdventCode11\bin\Debug\netcoreapp3.1\AdventCode11.exe
+D:\Repos\temp\adventcode20\AdventCode11\bin\Debug\netcoreapp3.1\AdventCode11.deps.json
+D:\Repos\temp\adventcode20\AdventCode11\bin\Debug\netcoreapp3.1\AdventCode11.runtimeconfig.json
+D:\Repos\temp\adventcode20\AdventCode11\bin\Debug\netcoreapp3.1\AdventCode11.runtimeconfig.dev.json
+D:\Repos\temp\adventcode20\AdventCode11\bin\Debug\netcoreapp3.1\AdventCode11.dll
+D:\Repos\temp\adventcode20\AdventCode11\bin\Debug\netcoreapp3.1\AdventCode11.pdb
+D:\Repos\temp\adventcode20\AdventCode11\obj\Debug\netcoreapp3.1\AdventCode11.csprojAssemblyReference.cache
+D:\Repos\temp\adventcode20\AdventCode11\obj\Debug\netcoreapp3.1\AdventCode11.AssemblyInfoInputs.cache
+D:\Repos\temp\adventcode20\AdventCode11\obj\Debug\netcoreapp3.1\AdventCode11.AssemblyInfo.cs
+D:\Repos\temp\adventcode20\AdventCode11\obj\Debug\netcoreapp3.1\AdventCode11.csproj.CoreCompileInputs.cache
+D:\Repos\temp\adventcode20\AdventCode11\obj\Debug\netcoreapp3.1\AdventCode11.dll
+D:\Repos\temp\adventcode20\AdventCode11\obj\Debug\netcoreapp3.1\AdventCode11.pdb
+D:\Repos\temp\adventcode20\AdventCode11\obj\Debug\netcoreapp3.1\AdventCode11.genruntimeconfig.cache
