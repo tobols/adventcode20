@@ -1,0 +1,13 @@
+C:\Repos\temp\AdventCode\AdventCode10\bin\Debug\netcoreapp3.1\AdventCode10.exe
+C:\Repos\temp\AdventCode\AdventCode10\bin\Debug\netcoreapp3.1\AdventCode10.deps.json
+C:\Repos\temp\AdventCode\AdventCode10\bin\Debug\netcoreapp3.1\AdventCode10.runtimeconfig.json
+C:\Repos\temp\AdventCode\AdventCode10\bin\Debug\netcoreapp3.1\AdventCode10.runtimeconfig.dev.json
+C:\Repos\temp\AdventCode\AdventCode10\bin\Debug\netcoreapp3.1\AdventCode10.dll
+C:\Repos\temp\AdventCode\AdventCode10\bin\Debug\netcoreapp3.1\AdventCode10.pdb
+C:\Repos\temp\AdventCode\AdventCode10\obj\Debug\netcoreapp3.1\AdventCode10.csproj.CoreCompileInputs.cache
+C:\Repos\temp\AdventCode\AdventCode10\obj\Debug\netcoreapp3.1\AdventCode10.AssemblyInfoInputs.cache
+C:\Repos\temp\AdventCode\AdventCode10\obj\Debug\netcoreapp3.1\AdventCode10.AssemblyInfo.cs
+C:\Repos\temp\AdventCode\AdventCode10\obj\Debug\netcoreapp3.1\AdventCode10.dll
+C:\Repos\temp\AdventCode\AdventCode10\obj\Debug\netcoreapp3.1\AdventCode10.pdb
+C:\Repos\temp\AdventCode\AdventCode10\obj\Debug\netcoreapp3.1\AdventCode10.genruntimeconfig.cache
+C:\Repos\temp\AdventCode\AdventCode10\obj\Debug\netcoreapp3.1\AdventCode10.csprojAssemblyReference.cache

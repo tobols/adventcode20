@@ -1,0 +1,13 @@
+C:\Repos\temp\AdventCode\AdventCode6\bin\Debug\netcoreapp3.1\AdventCode6.exe
+C:\Repos\temp\AdventCode\AdventCode6\bin\Debug\netcoreapp3.1\AdventCode6.deps.json
+C:\Repos\temp\AdventCode\AdventCode6\bin\Debug\netcoreapp3.1\AdventCode6.runtimeconfig.json
+C:\Repos\temp\AdventCode\AdventCode6\bin\Debug\netcoreapp3.1\AdventCode6.runtimeconfig.dev.json
+C:\Repos\temp\AdventCode\AdventCode6\bin\Debug\netcoreapp3.1\AdventCode6.dll
+C:\Repos\temp\AdventCode\AdventCode6\bin\Debug\netcoreapp3.1\AdventCode6.pdb
+C:\Repos\temp\AdventCode\AdventCode6\obj\Debug\netcoreapp3.1\AdventCode6.csprojAssemblyReference.cache
+C:\Repos\temp\AdventCode\AdventCode6\obj\Debug\netcoreapp3.1\AdventCode6.csproj.CoreCompileInputs.cache
+C:\Repos\temp\AdventCode\AdventCode6\obj\Debug\netcoreapp3.1\AdventCode6.AssemblyInfoInputs.cache
+C:\Repos\temp\AdventCode\AdventCode6\obj\Debug\netcoreapp3.1\AdventCode6.AssemblyInfo.cs
+C:\Repos\temp\AdventCode\AdventCode6\obj\Debug\netcoreapp3.1\AdventCode6.dll
+C:\Repos\temp\AdventCode\AdventCode6\obj\Debug\netcoreapp3.1\AdventCode6.pdb
+C:\Repos\temp\AdventCode\AdventCode6\obj\Debug\netcoreapp3.1\AdventCode6.genruntimeconfig.cache
