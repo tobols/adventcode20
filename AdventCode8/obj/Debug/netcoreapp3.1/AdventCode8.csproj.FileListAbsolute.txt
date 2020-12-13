@@ -11,3 +11,16 @@ C:\Repos\temp\AdventCode\AdventCode8\obj\Debug\netcoreapp3.1\AdventCode8.Assembl
 C:\Repos\temp\AdventCode\AdventCode8\obj\Debug\netcoreapp3.1\AdventCode8.dll
 C:\Repos\temp\AdventCode\AdventCode8\obj\Debug\netcoreapp3.1\AdventCode8.pdb
 C:\Repos\temp\AdventCode\AdventCode8\obj\Debug\netcoreapp3.1\AdventCode8.genruntimeconfig.cache
+D:\Repos\temp\adventcode20\AdventCode8\bin\Debug\netcoreapp3.1\AdventCode8.exe
+D:\Repos\temp\adventcode20\AdventCode8\bin\Debug\netcoreapp3.1\AdventCode8.deps.json
+D:\Repos\temp\adventcode20\AdventCode8\bin\Debug\netcoreapp3.1\AdventCode8.runtimeconfig.json
+D:\Repos\temp\adventcode20\AdventCode8\bin\Debug\netcoreapp3.1\AdventCode8.runtimeconfig.dev.json
+D:\Repos\temp\adventcode20\AdventCode8\bin\Debug\netcoreapp3.1\AdventCode8.dll
+D:\Repos\temp\adventcode20\AdventCode8\bin\Debug\netcoreapp3.1\AdventCode8.pdb
+D:\Repos\temp\adventcode20\AdventCode8\obj\Debug\netcoreapp3.1\AdventCode8.csprojAssemblyReference.cache
+D:\Repos\temp\adventcode20\AdventCode8\obj\Debug\netcoreapp3.1\AdventCode8.AssemblyInfoInputs.cache
+D:\Repos\temp\adventcode20\AdventCode8\obj\Debug\netcoreapp3.1\AdventCode8.AssemblyInfo.cs
+D:\Repos\temp\adventcode20\AdventCode8\obj\Debug\netcoreapp3.1\AdventCode8.csproj.CoreCompileInputs.cache
+D:\Repos\temp\adventcode20\AdventCode8\obj\Debug\netcoreapp3.1\AdventCode8.dll
+D:\Repos\temp\adventcode20\AdventCode8\obj\Debug\netcoreapp3.1\AdventCode8.pdb
+D:\Repos\temp\adventcode20\AdventCode8\obj\Debug\netcoreapp3.1\AdventCode8.genruntimeconfig.cache
