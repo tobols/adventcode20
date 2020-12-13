@@ -31,23 +31,13 @@ namespace AdventCode13
 
             var s = 0L;
             var p = 1L;
-            var n = 0;
 
             for (int i = 0; i < buses.Length - 1; i++)
             {
                 if (buses[i] == "x") continue;
-
-                if (n == i)
-                    for (int j = i + 1; j < buses.Length; j++)
-                        if (buses[j] != "x")
-                        {
-                            n = j;
-                            break;
-                        }
-
-                p *= int.Parse(buses[i]);
-                while ((s + n) % int.Parse(buses[n]) != 0)
+                while ((s + i) % int.Parse(buses[i]) != 0)
                     s += p;
+                p *= int.Parse(buses[i]);
             }
 
             Console.WriteLine(s);
