@@ -1,0 +1,13 @@
+D:\Repos\temp\adventcode20\AdventCode15\bin\Debug\netcoreapp3.1\AdventCode15.exe
+D:\Repos\temp\adventcode20\AdventCode15\bin\Debug\netcoreapp3.1\AdventCode15.deps.json
+D:\Repos\temp\adventcode20\AdventCode15\bin\Debug\netcoreapp3.1\AdventCode15.runtimeconfig.json
+D:\Repos\temp\adventcode20\AdventCode15\bin\Debug\netcoreapp3.1\AdventCode15.runtimeconfig.dev.json
+D:\Repos\temp\adventcode20\AdventCode15\bin\Debug\netcoreapp3.1\AdventCode15.dll
+D:\Repos\temp\adventcode20\AdventCode15\bin\Debug\netcoreapp3.1\AdventCode15.pdb
+D:\Repos\temp\adventcode20\AdventCode15\obj\Debug\netcoreapp3.1\AdventCode15.AssemblyInfoInputs.cache
+D:\Repos\temp\adventcode20\AdventCode15\obj\Debug\netcoreapp3.1\AdventCode15.AssemblyInfo.cs
+D:\Repos\temp\adventcode20\AdventCode15\obj\Debug\netcoreapp3.1\AdventCode15.csproj.CoreCompileInputs.cache
+D:\Repos\temp\adventcode20\AdventCode15\obj\Debug\netcoreapp3.1\AdventCode15.dll
+D:\Repos\temp\adventcode20\AdventCode15\obj\Debug\netcoreapp3.1\AdventCode15.pdb
+D:\Repos\temp\adventcode20\AdventCode15\obj\Debug\netcoreapp3.1\AdventCode15.genruntimeconfig.cache
+D:\Repos\temp\adventcode20\AdventCode15\obj\Debug\netcoreapp3.1\AdventCode15.csprojAssemblyReference.cache
