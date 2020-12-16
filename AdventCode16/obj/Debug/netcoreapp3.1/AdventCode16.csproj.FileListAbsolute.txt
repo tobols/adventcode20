@@ -1,0 +1,14 @@
+D:\Repos\temp\adventcode20\AdventCode16\bin\Debug\netcoreapp3.1\AdventCode16.exe
+D:\Repos\temp\adventcode20\AdventCode16\bin\Debug\netcoreapp3.1\AdventCode16.deps.json
+D:\Repos\temp\adventcode20\AdventCode16\bin\Debug\netcoreapp3.1\AdventCode16.runtimeconfig.json
+D:\Repos\temp\adventcode20\AdventCode16\bin\Debug\netcoreapp3.1\AdventCode16.runtimeconfig.dev.json
+D:\Repos\temp\adventcode20\AdventCode16\bin\Debug\netcoreapp3.1\AdventCode16.dll
+D:\Repos\temp\adventcode20\AdventCode16\bin\Debug\netcoreapp3.1\AdventCode16.pdb
+D:\Repos\temp\adventcode20\AdventCode16\obj\Debug\netcoreapp3.1\AdventCode16.AssemblyInfoInputs.cache
+D:\Repos\temp\adventcode20\AdventCode16\obj\Debug\netcoreapp3.1\AdventCode16.AssemblyInfo.cs
+D:\Repos\temp\adventcode20\AdventCode16\obj\Debug\netcoreapp3.1\AdventCode16.csproj.CoreCompileInputs.cache
+D:\Repos\temp\adventcode20\AdventCode16\obj\Debug\netcoreapp3.1\AdventCode16.dll
+D:\Repos\temp\adventcode20\AdventCode16\obj\Debug\netcoreapp3.1\AdventCode16.pdb
+D:\Repos\temp\adventcode20\AdventCode16\obj\Debug\netcoreapp3.1\AdventCode16.genruntimeconfig.cache
+D:\Repos\temp\adventcode20\AdventCode16\bin\Debug\netcoreapp3.1\rules.txt
+D:\Repos\temp\adventcode20\AdventCode16\bin\Debug\netcoreapp3.1\tickets.txt
