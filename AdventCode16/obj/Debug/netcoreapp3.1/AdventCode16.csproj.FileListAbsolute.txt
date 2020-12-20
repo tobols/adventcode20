@@ -12,3 +12,4 @@ D:\Repos\temp\adventcode20\AdventCode16\obj\Debug\netcoreapp3.1\AdventCode16.pdb
 D:\Repos\temp\adventcode20\AdventCode16\obj\Debug\netcoreapp3.1\AdventCode16.genruntimeconfig.cache
 D:\Repos\temp\adventcode20\AdventCode16\bin\Debug\netcoreapp3.1\rules.txt
 D:\Repos\temp\adventcode20\AdventCode16\bin\Debug\netcoreapp3.1\tickets.txt
+D:\Repos\temp\adventcode20\AdventCode16\obj\Debug\netcoreapp3.1\AdventCode16.csprojAssemblyReference.cache
