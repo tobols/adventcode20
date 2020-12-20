@@ -6,16 +6,16 @@ namespace AdventCode17
 {
     class Program
     {
-        private static Dictionary<string, int[]> currentCubes;
-        private static Dictionary<string, int[]> nextCubes;
-        private static List<string> testedCubes;
+        private static Dictionary<int, int[]> currentCubes;
+        private static Dictionary<int, int[]> nextCubes;
+        private static List<int> testedCubes;
 
 
         static void Main(string[] args)
         {
             currentCubes = GetInitialState(3);
-            testedCubes = new List<string>();
-            nextCubes = new Dictionary<string, int[]>();
+            testedCubes = new List<int>();
+            nextCubes = new Dictionary<int, int[]>();
 
             for (int i = 0; i < 6; i++)
             {
@@ -26,8 +26,8 @@ namespace AdventCode17
             Console.WriteLine();
 
             currentCubes = GetInitialState(4);
-            testedCubes = new List<string>();
-            nextCubes = new Dictionary<string, int[]>();
+            testedCubes = new List<int>();
+            nextCubes = new Dictionary<int, int[]>();
 
             for (int i = 0; i < 6; i++)
             {
@@ -47,8 +47,8 @@ namespace AdventCode17
             }
 
             currentCubes = nextCubes;
-            nextCubes = new Dictionary<string, int[]>();
-            testedCubes = new List<string>();
+            nextCubes = new Dictionary<int, int[]>();
+            testedCubes = new List<int>();
         }
 
 
@@ -117,7 +117,7 @@ namespace AdventCode17
         }
 
 
-        private static Dictionary<string, int[]> GetInitialState(int dimensions)
+        private static Dictionary<int, int[]> GetInitialState(int dimensions)
         {
             //string[] s = new string[]
             //{
@@ -138,7 +138,7 @@ namespace AdventCode17
                 "#...##.."
             };
 
-            Dictionary<string, int[]> cubes = new Dictionary<string, int[]>();
+            var cubes = new Dictionary<int, int[]>();
 
             for (int i = 0; i < s.Length; i++)
                 for (int j = 0; j < s[i].Length; j++)
@@ -154,9 +154,20 @@ namespace AdventCode17
             return cubes;
         }
 
-        private static string GetIdentifier(params int[] vals)
+        private static int GetIdentifier(params int[] vals)
         {
-            return vals.Aggregate(":", (r, v) => $"{r}:{v}");
+            var x = 1;
+            var y = 1;
+
+            for (int i = 0; i < vals.Length; i++)
+            {
+                x += y * vals[i];
+                y *= 1000;
+            }
+
+            return x;
+
+            //return vals.Aggregate(":", (r, v) => $"{r}:{v}");
         }
     }
 }
