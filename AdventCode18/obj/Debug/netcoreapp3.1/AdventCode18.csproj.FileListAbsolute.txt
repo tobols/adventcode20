@@ -1,0 +1,14 @@
+D:\Repos\temp\adventcode20\AdventCode18\bin\Debug\netcoreapp3.1\AdventCode18.exe
+D:\Repos\temp\adventcode20\AdventCode18\bin\Debug\netcoreapp3.1\AdventCode18.deps.json
+D:\Repos\temp\adventcode20\AdventCode18\bin\Debug\netcoreapp3.1\AdventCode18.runtimeconfig.json
+D:\Repos\temp\adventcode20\AdventCode18\bin\Debug\netcoreapp3.1\AdventCode18.runtimeconfig.dev.json
+D:\Repos\temp\adventcode20\AdventCode18\bin\Debug\netcoreapp3.1\AdventCode18.dll
+D:\Repos\temp\adventcode20\AdventCode18\bin\Debug\netcoreapp3.1\AdventCode18.pdb
+D:\Repos\temp\adventcode20\AdventCode18\obj\Debug\netcoreapp3.1\AdventCode18.csprojAssemblyReference.cache
+D:\Repos\temp\adventcode20\AdventCode18\obj\Debug\netcoreapp3.1\AdventCode18.AssemblyInfoInputs.cache
+D:\Repos\temp\adventcode20\AdventCode18\obj\Debug\netcoreapp3.1\AdventCode18.AssemblyInfo.cs
+D:\Repos\temp\adventcode20\AdventCode18\obj\Debug\netcoreapp3.1\AdventCode18.csproj.CoreCompileInputs.cache
+D:\Repos\temp\adventcode20\AdventCode18\obj\Debug\netcoreapp3.1\AdventCode18.dll
+D:\Repos\temp\adventcode20\AdventCode18\obj\Debug\netcoreapp3.1\AdventCode18.pdb
+D:\Repos\temp\adventcode20\AdventCode18\obj\Debug\netcoreapp3.1\AdventCode18.genruntimeconfig.cache
+D:\Repos\temp\adventcode20\AdventCode18\bin\Debug\netcoreapp3.1\data.txt
