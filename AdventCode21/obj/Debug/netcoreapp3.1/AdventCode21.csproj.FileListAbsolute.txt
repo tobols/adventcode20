@@ -1,0 +1,14 @@
+D:\Repos\temp\adventcode20\AdventCode21\bin\Debug\netcoreapp3.1\AdventCode21.exe
+D:\Repos\temp\adventcode20\AdventCode21\bin\Debug\netcoreapp3.1\data.txt
+D:\Repos\temp\adventcode20\AdventCode21\bin\Debug\netcoreapp3.1\AdventCode21.deps.json
+D:\Repos\temp\adventcode20\AdventCode21\bin\Debug\netcoreapp3.1\AdventCode21.runtimeconfig.json
+D:\Repos\temp\adventcode20\AdventCode21\bin\Debug\netcoreapp3.1\AdventCode21.runtimeconfig.dev.json
+D:\Repos\temp\adventcode20\AdventCode21\bin\Debug\netcoreapp3.1\AdventCode21.dll
+D:\Repos\temp\adventcode20\AdventCode21\bin\Debug\netcoreapp3.1\AdventCode21.pdb
+D:\Repos\temp\adventcode20\AdventCode21\obj\Debug\netcoreapp3.1\AdventCode21.csprojAssemblyReference.cache
+D:\Repos\temp\adventcode20\AdventCode21\obj\Debug\netcoreapp3.1\AdventCode21.AssemblyInfoInputs.cache
+D:\Repos\temp\adventcode20\AdventCode21\obj\Debug\netcoreapp3.1\AdventCode21.AssemblyInfo.cs
+D:\Repos\temp\adventcode20\AdventCode21\obj\Debug\netcoreapp3.1\AdventCode21.csproj.CoreCompileInputs.cache
+D:\Repos\temp\adventcode20\AdventCode21\obj\Debug\netcoreapp3.1\AdventCode21.dll
+D:\Repos\temp\adventcode20\AdventCode21\obj\Debug\netcoreapp3.1\AdventCode21.pdb
+D:\Repos\temp\adventcode20\AdventCode21\obj\Debug\netcoreapp3.1\AdventCode21.genruntimeconfig.cache
